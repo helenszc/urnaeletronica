@@ -1,0 +1,15 @@
+   nomeCandidato1: caractere
+   nomeCandidato2: caractere
+   nomeCandidato3: caractere
+   numeroCandidato1: inteiro
+   numeroCandidato2: inteiro
+   numeroCandidato3: inteiro
+   contCandidato1: inteiro
+   contCandidato2: inteiro
+   contCandidato3: inteiro
+   contBranco: inteiro
+   contNulo: inteiro
+   i: inteiro
+   voto: inteiro
+   resposta: caracter
+   resposta2: caracter
